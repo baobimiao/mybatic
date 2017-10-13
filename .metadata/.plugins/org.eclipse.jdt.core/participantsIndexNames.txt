@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+E:\workspace\workspace_mybatis\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3688004436.index
+\MyBatis_06_ssm\src
+E:\workspace\workspace_mybatis\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\226834039.index
+\MyBatis_06_ssm\src
