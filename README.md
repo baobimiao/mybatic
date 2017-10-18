@@ -1,2 +1,0 @@
-# mybatic demo
-
